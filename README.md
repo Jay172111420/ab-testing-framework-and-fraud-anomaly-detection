@@ -124,8 +124,8 @@ The dashboard interprets the combined output of both ML models into plain-Englis
 
 ```bash
 # 1. Clone and configure
-git clone https://github.com/stackSentinel-32/fraud-stream.git
-cd fraud-stream
+git clone https://github.com/Jay172111420/ab-testing-framework-and-fraud-anomaly-detection.git
+cd ab-testing-framework-and-fraud-anomaly-detection
 cp .env.example .env
 
 # 2. Place the PaySim dataset
